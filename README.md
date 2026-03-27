@@ -30,7 +30,7 @@ The notebook demonstrates a typical text-classification pipeline:
 
 Prerequisites:
 
-- Python 3.8+ installed and available on PATH
+- Python 3.10+ installed and available on PATH
 - Internet access to install Python packages
 
 Setup steps:
