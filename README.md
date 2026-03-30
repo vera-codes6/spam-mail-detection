@@ -26,12 +26,17 @@ The notebook demonstrates a typical text-classification pipeline:
 - Model training with classical algorithms (e.g., Multinomial Naive Bayes, Logistic Regression, SVM)
 - Evaluation using accuracy, precision, recall, F1-score, and confusion matrix
 
+
 ## Quick start (Windows, PowerShell)
+
 
 Prerequisites:
 
 - Python 3.10+ installed and available on PATH
 - Internet access to install Python packages
+
+Notes:
+- There's not specific requirements on this project, you may install packages manually
 
 Setup steps:
 
